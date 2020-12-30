@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>dataStrutcre</name>
+	<name>dataStructure</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,4 +14,77 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/dataStructure/Code01.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code01.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code02.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code02.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code03.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code03.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code04.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code04.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code05.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code05.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code10.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code10.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code11.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code11.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code12.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code12.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code13.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code13.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code14.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code14.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code15.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code15.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code8.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code8.java</locationURI>
+		</link>
+		<link>
+			<name>src/dataStructure/Code9.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/dataStructure/src/dataStructure/Code9.java</locationURI>
+		</link>
+	</linkedResources>
+	<variableList>
+		<variable>
+			<name>copy_PARENT</name>
+			<value>$%7BPARENT-3-ECLIPSE_HOME%7D/git/dataStructure</value>
+		</variable>
+	</variableList>
 </projectDescription>
